@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Help us Irish keep our good names!
-postsHeading: Latest posts
+postsHeading: About
 archiveButtonText: archives
 socialImage: ''
 ---
